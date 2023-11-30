@@ -10,8 +10,8 @@ This repository contains a simple example of microservices architecture with Spr
 ## Setup and Run
  
 1. Clone the Repository:
-git clone https://github.com/your-username/microservices-example.git
-   cd microservices-example
+git clone https://github.com/PaviG128/Assignment-7-Microservice-Communications.git
+   cd Assignment-7-Microservice-Communications
 2. Run product-service:
 cd product-service
 ./mvnw spring-boot:run
